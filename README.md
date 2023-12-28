@@ -1,9 +1,6 @@
-# Awesome Repositories
+# Awesome  [![build](https://github.com/nxame/awesome/workflows/build/badge.svg)](https://github.com/nxame/awesome/actions)
 
-[![build](https://github.com/nxame/awesome/workflows/build/badge.svg)](https://github.com/nxame/awesome/actions)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-A collection of awesome things on github, starred by me [@theadriannoel](https://x.com/theadriannoel)
+A collection of awesome things.
 
 - [C](#c)
 - [C++](#c-1)
