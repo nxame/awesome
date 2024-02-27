@@ -224,7 +224,7 @@ A collection of awesome things.
 - [innogames/igcommit](https://github.com/innogames/igcommit) - Git pre-receive hook to check commits and code style
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [ixaxaar/VardaGPT](https://github.com/ixaxaar/VardaGPT) - Associative memory-enhanced GPT-2 model
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and automation platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [m57/dnsteal](https://github.com/m57/dnsteal) - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
