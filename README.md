@@ -224,7 +224,7 @@ A collection of awesome things.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [evanman83/OURS-project](https://github.com/evanman83/OURS-project) - Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.
-- [georgian-io/LLM-Finetuning-Toolkit](https://github.com/georgian-io/LLM-Finetuning-Toolkit) - Repository that contains LLM fine-tuning and deployment scripts along with our research findings.
+- [georgian-io/LLM-Finetuning-Toolkit](https://github.com/georgian-io/LLM-Finetuning-Toolkit) - Toolkit for fine-tuning, ablating and unit-testing open-source LLMs.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [innogames/igcommit](https://github.com/innogames/igcommit) - Git pre-receive hook to check commits and code style
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
