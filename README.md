@@ -301,7 +301,6 @@ A collection of awesome things.
 ## Swift
 
 - [BenziAhamed/Menu-Bar-Search](https://github.com/BenziAhamed/Menu-Bar-Search) - Quickly search through menu options of the front-most application - Alfred Workflow
-- [THEOplayer/react-native-theoplayer](https://github.com/THEOplayer/react-native-theoplayer) - A React Native THEOplayerView component
 - [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create custom, lightweight macOS apps from websites
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
@@ -321,6 +320,7 @@ A collection of awesome things.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
+- [THEOplayer/react-native-theoplayer](https://github.com/THEOplayer/react-native-theoplayer) - A React Native THEOplayerView component
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months. 
