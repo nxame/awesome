@@ -98,6 +98,7 @@ A collection of awesome things.
 
 ## Java
 
+- [FormidableLabs/react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React native bridge for AppAuth - an SDK for communicating with OAuth2 providers
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
