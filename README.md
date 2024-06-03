@@ -108,7 +108,7 @@ A collection of awesome things.
 
 ## JavaScript
 
-- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository has been made to create an objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools) - This is a library of accessibility-related testing and utility code.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [Maximization/nodejs-toolbox-catalog](https://github.com/Maximization/nodejs-toolbox-catalog) - Catalog of categories and libraries for Node.js Toolbox
