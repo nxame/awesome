@@ -221,7 +221,7 @@ A collection of awesome things.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Efficient retrieval augmented generation framework
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [Trainy-ai/llm-atc](https://github.com/Trainy-ai/llm-atc) - Fine-tuning and serving LLMs on any cloud
@@ -336,7 +336,7 @@ A collection of awesome things.
 - [camomeui/camome](https://github.com/camomeui/camome) - Light weight, accessible UI framework for React and CSS
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [dabbott/react-native-express](https://github.com/dabbott/react-native-express) - The all-in-one guide to React Native
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
