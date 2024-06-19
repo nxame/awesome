@@ -304,6 +304,7 @@ A collection of awesome things.
 ## Swift
 
 - [BenziAhamed/Menu-Bar-Search](https://github.com/BenziAhamed/Menu-Bar-Search) - Quickly search through menu options of the front-most application - Alfred Workflow
+- [THEOplayer/react-native-theoplayer](https://github.com/THEOplayer/react-native-theoplayer) - A React Native THEOplayerView component
 - [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create custom, lightweight macOS apps from websites
@@ -324,7 +325,6 @@ A collection of awesome things.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
-- [THEOplayer/react-native-theoplayer](https://github.com/THEOplayer/react-native-theoplayer) - A React Native THEOplayerView component
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [WrathChaos/react-native-typescript-boilerplate](https://github.com/WrathChaos/react-native-typescript-boilerplate) - 🚀 All-in-one React Native Typescript Boilerplate, Ready to Start 🥳
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
