@@ -1,4 +1,6 @@
-# Absolute Awesome  [![build](https://github.com/nxame/Absolute-Awesome/workflows/build/badge.svg)](https://github.com/nxame/Absolute-Awesome/actions)
+# Absolute Awesome
+
+[![build](https://github.com/nxame/Absolute-Awesome/workflows/build/badge.svg)](https://github.com/nxame/Absolute-Awesome/actions)
 
 A collection of awesome things.
 
