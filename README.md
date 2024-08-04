@@ -114,6 +114,7 @@ A collection of awesome things.
 ## JavaScript
 
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools) - This is a library of accessibility-related testing and utility code.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [Maximization/nodejs-toolbox-catalog](https://github.com/Maximization/nodejs-toolbox-catalog) - Catalog of categories and libraries for Node.js Toolbox
@@ -394,7 +395,7 @@ A collection of awesome things.
 - [okupter/kitforstartups](https://github.com/okupter/kitforstartups) - The Open Source SvelteKit SaaS boilerplate.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Redteaming, pentesting, vulnerability scanning for LLMs. Improve your app's quality and catch problems. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Redteaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
@@ -430,7 +431,6 @@ A collection of awesome things.
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [MrKomish/awesome-saas](https://github.com/MrKomish/awesome-saas) - A curated list for building awesome SaaS (Software as a Service) platforms 🐕‍🔥
 - [NeudesicIndia/MetroUI](https://github.com/NeudesicIndia/MetroUI) - Windows 8 like components built for Web, developed using JavaScript.
 - [nxame/awesome](https://github.com/nxame/awesome) - My starred awesome repos
