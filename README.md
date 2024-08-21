@@ -84,6 +84,7 @@ A collection of awesome things.
 - [ardanlabs/gotour](https://github.com/ardanlabs/gotour) - 
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
+- [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
 - [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
@@ -256,6 +257,8 @@ A collection of awesome things.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [m57/dnsteal](https://github.com/m57/dnsteal) - DNS Exfiltration tool for stealthily sending files over DNS requests.
+- [markqvist/LXMF](https://github.com/markqvist/LXMF) - A universal, distributed and secure messaging protocol for Reticulum
+- [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -276,6 +279,7 @@ A collection of awesome things.
 - [beplus-bootstrap/mobile](https://github.com/beplus-bootstrap/mobile) - Deploy Your React Native Mobile Apps to AppStore(s) within minutes.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [leereilly/swot](https://github.com/leereilly/swot) - :school: Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+- [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 
 ## Rust
@@ -419,6 +423,7 @@ A collection of awesome things.
 - [tremorlabs/tremor-raw](https://github.com/tremorlabs/tremor-raw) - Copy & Paste React components to build modern web applications. 
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js. 
+- [wcandillon/react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) - React Native implementation of WebGPU using Dawn
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆 
 
