@@ -40,6 +40,7 @@ A collection of awesome things.
 ## C
 
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
+- [SuperIlu/DOjS](https://github.com/SuperIlu/DOjS) - A MS-DOS Creative Coding IDE/platform based on JavaScript 
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
