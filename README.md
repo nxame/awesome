@@ -266,6 +266,7 @@ A collection of awesome things.
 - [m57/dnsteal](https://github.com/m57/dnsteal) - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - [markqvist/LXMF](https://github.com/markqvist/LXMF) - A universal, distributed and secure messaging protocol for Reticulum
 - [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
