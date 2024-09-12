@@ -174,6 +174,7 @@ A collection of awesome things.
 - [saddlebackdev/react-cm-ui](https://github.com/saddlebackdev/react-cm-ui) - UI Assets for Healthy Church (formerly Church Management) and related projects
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). 
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [storeon/storeon](https://github.com/storeon/storeon) - 🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
@@ -228,6 +229,7 @@ A collection of awesome things.
 
 ## PHP
 
+- [Gigamick/burnernote](https://github.com/Gigamick/burnernote) - Burner Note is a free, ad-free and open source tool for securely sending text based notes that are encrypted and self destruct once read.
 - [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform. Perfect for concerts, conferences, and everything in between 🎟️
 - [ILIAS-eLearning/ILIAS](https://github.com/ILIAS-eLearning/ILIAS) - GitHub repository for official ILIAS release branches and development branches (trunk)
 - [LMS-Laravel/LMS-Laravel](https://github.com/LMS-Laravel/LMS-Laravel) - Laravel Learning Management System (LMS)
