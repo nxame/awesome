@@ -129,7 +129,6 @@ A collection of awesome things.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [nxame/connect-four](https://github.com/nxame/connect-four) - Connect four, with JS 
 - [nxame/eslint-plugin-ts-ignore-comments](https://github.com/nxame/eslint-plugin-ts-ignore-comments) - Enforce a custom description for `// @ts-ignore` comments
-- [nxame/pup](https://github.com/nxame/pup) - The Ultimate Boilerplate for Products.
 - [adamkdean/gpt-unicorn](https://github.com/adamkdean/gpt-unicorn) - Getting GPT-4 to draw a new unicorn every day
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
@@ -368,11 +367,12 @@ A collection of awesome things.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [WrathChaos/react-native-typescript-boilerplate](https://github.com/WrathChaos/react-native-typescript-boilerplate) - 🚀 All-in-one React Native Typescript Boilerplate, Ready to Start 🥳
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [adzejs/adze](https://github.com/adzejs/adze) - A library for shaping your JavaScript logs.
+- [adzejs/adze](https://github.com/adzejs/adze) - A universal, modern, and extensible logging library for JavaScript and TypeScript.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months. 
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [atulmy/fullstack-event-driven-architecture](https://github.com/atulmy/fullstack-event-driven-architecture) - Text-to-Speech and Speech-to-Text application built with a full-stack monorepo, featuring an event-driven, highly scalable architecture using Node.js, React, Redis, MongoDB, and Docker.
 - [bidah/uni-stack](https://github.com/bidah/uni-stack) - ⚛️💻📱Typesafe setup to build fullstack expo universal native apps
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [camomeui/camome](https://github.com/camomeui/camome) - Light weight, accessible UI framework for React and CSS
