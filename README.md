@@ -2,6 +2,7 @@
 
 A collection of awesome things.
 
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c-1)
 - [CMake](#cmake)
@@ -36,6 +37,10 @@ A collection of awesome things.
 - [Misc](#misc)
 
 ---
+
+## Batchfile
+
+- [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans. 
 
 ## C
 
@@ -292,6 +297,7 @@ A collection of awesome things.
 - [leereilly/swot](https://github.com/leereilly/swot) - :school: Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 
 ## Rust
 
