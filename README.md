@@ -380,6 +380,7 @@ A collection of awesome things.
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [atulmy/fullstack-event-driven-architecture](https://github.com/atulmy/fullstack-event-driven-architecture) - Text-to-Speech and Speech-to-Text application built with a full-stack monorepo, featuring an event-driven, highly scalable architecture using Node.js, React, Redis, MongoDB, and Docker.
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [bidah/uni-stack](https://github.com/bidah/uni-stack) - ⚛️💻📱Typesafe setup to build fullstack expo universal native apps
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [camomeui/camome](https://github.com/camomeui/camome) - Light weight, accessible UI framework for React and CSS
