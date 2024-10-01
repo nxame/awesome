@@ -230,6 +230,7 @@ A collection of awesome things.
 
 ## Objective-C
 
+- [milgra/airpodssoundqualityfixer](https://github.com/milgra/airpodssoundqualityfixer) - AirPods Sound Quality Fixer And Battery Life Enhancer For MacOS
 - [orklann/PEP](https://github.com/orklann/PEP) - PEP - Free & Open Source PDF Editor for Mac
 - [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 
@@ -347,6 +348,7 @@ A collection of awesome things.
 ## Swift
 
 - [BenziAhamed/Menu-Bar-Search](https://github.com/BenziAhamed/Menu-Bar-Search) - Quickly search through menu options of the front-most application - Alfred Workflow
+- [Gaulomatic/AirPodsSanity](https://github.com/Gaulomatic/AirPodsSanity) - Fixes the Sound Quality of AirPods when connected to a Mac.
 - [THEOplayer/react-native-theoplayer](https://github.com/THEOplayer/react-native-theoplayer) - A React Native THEOplayerView component
 - [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
