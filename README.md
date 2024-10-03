@@ -243,6 +243,7 @@ A collection of awesome things.
 - [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [netlight/security-challenge](https://github.com/netlight/security-challenge) - SQL injection challenge
+- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 
 
 ## Python
@@ -303,7 +304,7 @@ A collection of awesome things.
 
 ## Rust
 
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
@@ -321,7 +322,7 @@ A collection of awesome things.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
@@ -362,7 +363,7 @@ A collection of awesome things.
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
 - [ArtiomTr/jest-coverage-report-action](https://github.com/ArtiomTr/jest-coverage-report-action) - Track your code coverage in every pull request.
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Frontend & infra for AI agents, chatbots & textareas that interact with your web-app 🪁
 - [DanWahlin/Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart) - Angular and TypeScript JumpStart example application
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [FormidableLabs/react-native-owl](https://github.com/FormidableLabs/react-native-owl) - Visual regression testing library for React Native that enables developers to introduce visual regression tests to their apps.
@@ -413,6 +414,7 @@ A collection of awesome things.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [keleshev/compiling-to-assembly-from-scratch](https://github.com/keleshev/compiling-to-assembly-from-scratch) - Source code for the book Compiling to Assembly from Scratch https://keleshev.com/cas
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
