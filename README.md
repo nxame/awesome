@@ -48,7 +48,7 @@ A collection of awesome things.
 - [SuperIlu/DOjS](https://github.com/SuperIlu/DOjS) - A MS-DOS Creative Coding IDE/platform based on JavaScript 
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 
 ## C++
 
