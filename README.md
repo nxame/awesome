@@ -190,7 +190,6 @@ A collection of awesome things.
 - [swc-project/swc-loader](https://github.com/swc-project/swc-loader) - Moved to https://github.com/swc-project/pkgs
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [tremorlabs/tremor-raw](https://github.com/tremorlabs/tremor-raw) - Copy & Paste React components to build modern web applications. 
 - [varunshenoy/opendream](https://github.com/varunshenoy/opendream) - An extensible, easy-to-use, and portable diffusion web UI 👨‍🎨
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [vimond/replay](https://github.com/vimond/replay) - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
@@ -398,7 +397,7 @@ A collection of awesome things.
 - [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework. 
 - [camomeui/camome](https://github.com/camomeui/camome) - Light weight, accessible UI framework for React and CSS
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -467,6 +466,7 @@ A collection of awesome things.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-raw](https://github.com/tremorlabs/tremor-raw) - Copy & Paste React components to build modern web applications. 
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [varse-io/varse](https://github.com/varse-io/varse) - A fast application config manager
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
