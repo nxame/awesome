@@ -4,7 +4,8 @@ A collection of awesome things.
 
 - [Batchfile](#batchfile)
 - [C](#c)
-- [C++](#c-1)
+- [C#](#c-1)
+- [C++](#c-2)
 - [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
@@ -49,6 +50,10 @@ A collection of awesome things.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+
+## C#
+
+- [SparkDevNetwork/Rock](https://github.com/SparkDevNetwork/Rock) - An open source CMS, Relationship Management System (RMS) and Church Management System (ChMS) all rolled into one.
 
 ## C++
 
@@ -474,6 +479,7 @@ A collection of awesome things.
 - [wcandillon/react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) - React Native implementation of WebGPU using Dawn
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆 
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 
 ## Vue
 
