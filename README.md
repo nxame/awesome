@@ -226,6 +226,7 @@ A collection of awesome things.
 
 ## Markdown
 
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Nunjucks
@@ -301,7 +302,6 @@ A collection of awesome things.
 
 ## Ruby
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [beplus-bootstrap/mobile](https://github.com/beplus-bootstrap/mobile) - Deploy Your React Native Mobile Apps to AppStore(s) within minutes.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [leereilly/swot](https://github.com/leereilly/swot) - :school: Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
