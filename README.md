@@ -384,7 +384,7 @@ A collection of awesome things.
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
 - [THEOplayer/react-native-theoplayer](https://github.com/THEOplayer/react-native-theoplayer) - A React Native THEOplayerView component
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [WrathChaos/react-native-typescript-boilerplate](https://github.com/WrathChaos/react-native-typescript-boilerplate) - 🚀 All-in-one React Native Typescript Boilerplate, Ready to Start 🥳
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [adzejs/adze](https://github.com/adzejs/adze) - A universal, modern, and extensible logging library for JavaScript and TypeScript.
@@ -439,7 +439,7 @@ A collection of awesome things.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine 
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
-- [navikt/aksel](https://github.com/navikt/aksel) - NAVs designsystem og Aksel-portalen
+- [navikt/aksel](https://github.com/navikt/aksel) - Navs designsystem og Aksel-portalen
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [oblador/react-native-performance](https://github.com/oblador/react-native-performance) - 📐 Monitor and measure React Native performance
 - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
