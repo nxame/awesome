@@ -471,8 +471,8 @@ A collection of awesome things.
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
-- [tremorlabs/tremor-raw](https://github.com/tremorlabs/tremor-raw) - Copy & Paste React components to build modern web applications. 
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy & Paste React components to build modern web applications. 
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [varse-io/varse](https://github.com/varse-io/varse) - A fast application config manager
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
