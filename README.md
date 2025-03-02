@@ -216,7 +216,7 @@ A collection of awesome things.
 
 - [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
-- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless Mobile UI Automation
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 
 ## MDX
 
@@ -303,7 +303,7 @@ A collection of awesome things.
 - [simonw/click-app](https://github.com/simonw/click-app) - Cookiecutter template for creating new Click command-line tools
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 
 ## Red
 
@@ -324,6 +324,7 @@ A collection of awesome things.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
+- [cmackenzie1/torii-rs](https://github.com/cmackenzie1/torii-rs) - Torii is a powerful authentication framework for Rust applications that gives you complete control over your users' data. 
 - [cot-rs/cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
 - [devongovett/dprint-node](https://github.com/devongovett/dprint-node) - A node API for the dprint TypeScript and JavaScript code formatter
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
