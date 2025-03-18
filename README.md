@@ -180,6 +180,7 @@ A collection of awesome things.
 - [nxame/eslint-plugin-ts-ignore-comments](https://github.com/nxame/eslint-plugin-ts-ignore-comments) - Enforce a custom description for `// @ts-ignore` comments
 - [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
 - [optimumfuturist/scrum](https://github.com/optimumfuturist/scrum) - Scrum Meeting Deck using Impress.js
+- [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
