@@ -300,7 +300,7 @@ A collection of awesome things.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
-- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - 🏔️ Mountaineer is a batteries-included web framework for Python.
+- [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer) - 🏔️ Mountaineer is a batteries-included webapp framework for Python.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [richardpenman/whois](https://github.com/richardpenman/whois) - 
 - [simonw/click-app](https://github.com/simonw/click-app) - Cookiecutter template for creating new Click command-line tools
@@ -477,7 +477,7 @@ A collection of awesome things.
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
-- [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+- [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
