@@ -491,6 +491,7 @@ A collection of awesome things.
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [steve-lebleu/typeplate](https://github.com/steve-lebleu/typeplate) - REST API boilerplate with Typescript, Express.js, Typeorm and Mocha.
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
+- [stormkit-io/monorepo-template-react](https://github.com/stormkit-io/monorepo-template-react) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
