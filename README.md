@@ -247,7 +247,6 @@ A collection of awesome things.
 
 - [milgra/airpodssoundqualityfixer](https://github.com/milgra/airpodssoundqualityfixer) - AirPods Sound Quality Fixer And Battery Life Enhancer For MacOS
 - [orklann/PEP](https://github.com/orklann/PEP) - PEP - Free & Open Source PDF Editor for Mac
-- [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 
 ## PHP
 
@@ -481,6 +480,7 @@ A collection of awesome things.
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
+- [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
