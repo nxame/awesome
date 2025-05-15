@@ -184,7 +184,7 @@ A collection of awesome things.
 - [optimumfuturist/scrum](https://github.com/optimumfuturist/scrum) - Scrum Meeting Deck using Impress.js
 - [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
@@ -251,7 +251,7 @@ A collection of awesome things.
 ## PHP
 
 - [Gigamick/burnernote](https://github.com/Gigamick/burnernote) - Burner Note is a free, ad-free and open source tool for securely sending text based notes that are encrypted and self destruct once read.
-- [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform. Perfect for concerts, conferences, and everything in between 🎟️
+- [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️ 
 - [ILIAS-eLearning/ILIAS](https://github.com/ILIAS-eLearning/ILIAS) - GitHub repository for official ILIAS release branches and development branches (trunk)
 - [LMS-Laravel/LMS-Laravel](https://github.com/LMS-Laravel/LMS-Laravel) - Laravel Learning Management System (LMS)
 - [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
@@ -445,6 +445,7 @@ A collection of awesome things.
 - [eugenehp/react-native-uuid](https://github.com/eugenehp/react-native-uuid) - UUID generation for react-native.
 - [expo/dev-plugins](https://github.com/expo/dev-plugins) - Out-of-tree Expo devtools plugins for packages that haven't adopted the Expo devtools plugin system yet.
 - [expo/vscode-expo](https://github.com/expo/vscode-expo) - Expo Tools keep you productive with debugging, IntelliSense, and prebuild previews
+- [felixpalmer/a5](https://github.com/felixpalmer/a5) - Pentagonal geospatial indexing system DGGS
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [garden-co/jazz](https://github.com/garden-co/jazz) - Toolkit for backendless apps
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
@@ -506,6 +507,7 @@ A collection of awesome things.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [steve-lebleu/typeplate](https://github.com/steve-lebleu/typeplate) - REST API boilerplate with Typescript, Express.js, Typeorm and Mocha.
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [stormkit-io/monorepo-template-react](https://github.com/stormkit-io/monorepo-template-react) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
