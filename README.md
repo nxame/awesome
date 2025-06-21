@@ -524,7 +524,7 @@ A collection of awesome things.
 - [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [steve-lebleu/typeplate](https://github.com/steve-lebleu/typeplate) - REST API boilerplate with Typescript, Express.js, Typeorm and Mocha.
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
-- [stormkit-io/monorepo-template-react](https://github.com/stormkit-io/monorepo-template-react) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
+- [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
 - [supermemoryai/cloudflare-saas-stack](https://github.com/supermemoryai/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app 
 - [telekom/scale](https://github.com/telekom/scale) - Scale is the digital design system for Telekom products and experiences.
