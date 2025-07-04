@@ -210,7 +210,7 @@ A collection of awesome things.
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [vimond/replay](https://github.com/vimond/replay) - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
-- [wxik/react-native-rich-editor](https://github.com/wxik/react-native-rich-editor) - Lightweight React Native (JavaScript, H5) rich text editor
+- [yivs3/react-native-rich-editor](https://github.com/yivs3/react-native-rich-editor) - Lightweight React Native (JavaScript, H5) rich text editor
 
 ## Jupyter Notebook
 
@@ -284,7 +284,6 @@ A collection of awesome things.
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [codingmoh/open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [dropseed/plain](https://github.com/dropseed/plain) - A web framework for building products with Python.
 - [evanman83/OURS-project](https://github.com/evanman83/OURS-project) - Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.
@@ -448,6 +447,7 @@ A collection of awesome things.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [dabbott/react-native-express](https://github.com/dabbott/react-native-express) - The all-in-one guide to React Native
 - [dai-shi/react-tracked](https://github.com/dai-shi/react-tracked) - State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dev-xo/remix-auth-totp](https://github.com/dev-xo/remix-auth-totp) - A Time-Based One-Time Password (TOTP) Authentication Strategy for Remix-Auth.
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
