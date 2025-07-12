@@ -373,7 +373,7 @@ A collection of awesome things.
 - [arc42/arc42.org-site](https://github.com/arc42/arc42.org-site) - (jekyll-based) website for arc42.org - the template for communicating software architectures. 
 - [fastbootstrap/atlassian-design-for-bootstrap](https://github.com/fastbootstrap/atlassian-design-for-bootstrap) - A beautiful Bootstrap 5 theme with Atlassian Design.
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
-- [swisspost/design-system](https://github.com/swisspost/design-system) - Swiss Post Design System - for a consistent and inclusive user experience across the web platform.
+- [swisspost/design-system](https://github.com/swisspost/design-system) - Swiss Post Design System - a consistent and inclusive user experience across the web platform.
 
 ## Shell
 
