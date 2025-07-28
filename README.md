@@ -505,7 +505,7 @@ A collection of awesome things.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [porsche-design-system/porsche-design-system](https://github.com/porsche-design-system/porsche-design-system) - Find all the fundamental UXI guidelines and pattern-based web components to build brand driven, consistent and intuitive designs for digital Porsche products.
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
