@@ -441,7 +441,7 @@ A collection of awesome things.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework. 
-- [callstack/rnef](https://github.com/callstack/rnef) - React Native framework for Enterprise 
+- [callstack/rock](https://github.com/callstack/rock) - React Native framework for Enterprise scale
 - [callstackincubator/react-native-bottom-tabs](https://github.com/callstackincubator/react-native-bottom-tabs) - Native Bottom Tabs for React Native
 - [camomeui/camome](https://github.com/camomeui/camome) - Light weight, accessible UI framework for React and CSS
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -461,6 +461,7 @@ A collection of awesome things.
 - [expo/dev-plugins](https://github.com/expo/dev-plugins) - Out-of-tree Expo devtools plugins for packages that haven't adopted the Expo devtools plugin system yet.
 - [expo/vscode-expo](https://github.com/expo/vscode-expo) - Expo Tools keep you productive with debugging, IntelliSense, and prebuild previews
 - [felixpalmer/a5](https://github.com/felixpalmer/a5) - Pentagonal geospatial indexing system DGGS
+- [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
@@ -492,7 +493,6 @@ A collection of awesome things.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
-- [mendableai/open-lovable](https://github.com/mendableai/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
