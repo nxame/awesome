@@ -192,7 +192,7 @@ A collection of awesome things.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [rajamsrgit/JavaScriptSecurityCookbook](https://github.com/rajamsrgit/JavaScriptSecurityCookbook) - 
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [saddlebackdev/react-cm-ui](https://github.com/saddlebackdev/react-cm-ui) - UI Assets for Healthy Church (formerly Church Management) and related projects
