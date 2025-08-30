@@ -12,6 +12,7 @@ A collection of awesome things.
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
 - [JSON](#json)
@@ -99,6 +100,10 @@ A collection of awesome things.
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
+## Elixir
+
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
+
 ## Go
 
 - [ardanlabs/gotour](https://github.com/ardanlabs/gotour) - 
@@ -113,6 +118,7 @@ A collection of awesome things.
 - [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
 - [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 
