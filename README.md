@@ -81,7 +81,6 @@ A collection of awesome things.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 
-- [validator/validator](https://github.com/validator/validator) - The Nu Html Checker (vnu)
 
 ## Clojure
 
@@ -142,6 +141,7 @@ A collection of awesome things.
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [naver/ngrinder](https://github.com/naver/ngrinder) - enterprise level performance testing solution
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
+- [validator/validator](https://github.com/validator/validator) - The Nu Html Checker (vnu)
 
 ## JavaScript
 
