@@ -192,6 +192,7 @@ A collection of awesome things.
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [nxame/eslint-plugin-ts-ignore-comments](https://github.com/nxame/eslint-plugin-ts-ignore-comments) - Enforce a custom description for `// @ts-ignore` comments
 - [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [optimumfuturist/scrum](https://github.com/optimumfuturist/scrum) - Scrum Meeting Deck using Impress.js
 - [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
@@ -392,7 +393,6 @@ A collection of awesome things.
 ## Shell
 
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 
