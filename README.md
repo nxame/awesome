@@ -559,7 +559,7 @@ A collection of awesome things.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy & Paste React components to build modern web applications. 
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [tuanpham-dev/react-invoice-generator](https://github.com/tuanpham-dev/react-invoice-generator) - React Invoice Generator allows you quickly make invoices and export them as PDF
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [varse-io/varse](https://github.com/varse-io/varse) - A fast application config manager
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
