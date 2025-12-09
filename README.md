@@ -79,6 +79,7 @@ A collection of awesome things.
 
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+- [level09/readykit](https://github.com/level09/readykit) - Production-ready Flask SaaS template with multi-tenancy, billing, and teams
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 
 
 ## Clojure
@@ -544,7 +545,7 @@ A collection of awesome things.
 - [siemens/ix](https://github.com/siemens/ix) - Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software products.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [six-group/six-webcomponents](https://github.com/six-group/six-webcomponents) - Ready to use Web Components in alignment with the SIX Corporate Styleguide
-- [skaldlabs/skald](https://github.com/skaldlabs/skald) - Production RAG in your infrastructure (MIT-licensed)
+- [skaldlabs/skald](https://github.com/skaldlabs/skald) - Production RAG in your infrastructure
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
