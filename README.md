@@ -457,7 +457,7 @@ A collection of awesome things.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [brisa-build/brisa](https://github.com/brisa-build/brisa) - The Web Platform Framework. 
-- [callstackincubator/react-native-bottom-tabs](https://github.com/callstackincubator/react-native-bottom-tabs) - Native Bottom Tabs for React Native
+- [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
 - [callstackincubator/rock](https://github.com/callstackincubator/rock) - Modular toolkit for teams building React Native apps
 - [camomeui/camome](https://github.com/camomeui/camome) - Light weight, accessible UI framework for React and CSS
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -545,7 +545,7 @@ A collection of awesome things.
 - [siemens/ix](https://github.com/siemens/ix) - Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software products.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [six-group/six-webcomponents](https://github.com/six-group/six-webcomponents) - Ready to use Web Components in alignment with the SIX Corporate Styleguide
-- [skaldlabs/skald](https://github.com/skaldlabs/skald) - Production RAG in your infrastructure
+- [skaldlabs/skald](https://github.com/skaldlabs/skald) - Context layer platform in your infrastructure
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
