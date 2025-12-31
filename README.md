@@ -424,7 +424,7 @@ A collection of awesome things.
 - [DanWahlin/Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart) - Angular and TypeScript JumpStart example application
 - [Endava/BEEQ](https://github.com/Endava/BEEQ) - BEEQ Design System, a web component library ruled by Endavan developers :)
 - [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system) - A monorepo containing the packages for Esri's Calcite Design System
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 - [FormidableLabs/react-native-owl](https://github.com/FormidableLabs/react-native-owl) - Visual regression testing library for React Native that enables developers to introduce visual regression tests to their apps.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [GodKratos/temporary-containers](https://github.com/GodKratos/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
