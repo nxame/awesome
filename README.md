@@ -446,6 +446,9 @@ A collection of awesome things.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. 
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
+- [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [atulmy/fullstack-event-driven-architecture](https://github.com/atulmy/fullstack-event-driven-architecture) - Text-to-Speech and Speech-to-Text application built with a full-stack monorepo, featuring an event-driven, highly scalable architecture using Node.js, React, Redis, MongoDB, and Docker.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
@@ -548,9 +551,6 @@ A collection of awesome things.
 - [six-group/six-webcomponents](https://github.com/six-group/six-webcomponents) - Ready to use Web Components in alignment with the SIX Corporate Styleguide
 - [skaldlabs/skald](https://github.com/skaldlabs/skald) - Context layer platform in your infrastructure
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
-- [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 - [steve-lebleu/typeplate](https://github.com/steve-lebleu/typeplate) - REST API boilerplate with Typescript, Express.js, Typeorm and Mocha.
 - [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
