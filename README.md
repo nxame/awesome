@@ -68,7 +68,7 @@ A collection of awesome things.
 - [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [parro-it/libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
-- [preshing/plywood](https://github.com/preshing/plywood) - An easy-to-use alternative to the C++ Standard Library
+- [preshing/plywood](https://github.com/preshing/plywood) - A simple alternative to the C++ Standard Library
 - [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos) - React Native repo with additions for Apple TV and Android TV support. 
 
 ## CMake
