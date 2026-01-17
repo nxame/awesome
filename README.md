@@ -27,6 +27,7 @@ A collection of awesome things.
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Red](#red)
 - [Ruby](#ruby)
@@ -274,6 +275,10 @@ A collection of awesome things.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [netlight/security-challenge](https://github.com/netlight/security-challenge) - SQL injection challenge
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
+
+## PowerShell
+
+- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 
 ## Python
 
