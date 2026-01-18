@@ -27,7 +27,6 @@ A collection of awesome things.
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [PHP](#php)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Red](#red)
 - [Ruby](#ruby)
@@ -276,10 +275,6 @@ A collection of awesome things.
 - [netlight/security-challenge](https://github.com/netlight/security-challenge) - SQL injection challenge
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 
-## PowerShell
-
-- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
-
 ## Python
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -401,6 +396,7 @@ A collection of awesome things.
 
 ## Shell
 
+- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
