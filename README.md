@@ -161,6 +161,7 @@ A collection of awesome things.
 - [Maximization/nodejs-toolbox-catalog](https://github.com/Maximization/nodejs-toolbox-catalog) - Catalog of categories and libraries for Node.js Toolbox
 - [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide 
 - [QuickBase/babel-plugin-styled-components-css-namespace](https://github.com/QuickBase/babel-plugin-styled-components-css-namespace) - A babel plugin to add css namespaces (and increase specificity) of styled-component classes.
+- [ServiceStack/llms](https://github.com/ServiceStack/llms) - LLM Client, Server API and UI
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
