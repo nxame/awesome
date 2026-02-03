@@ -243,6 +243,7 @@ A collection of awesome things.
 
 ## MDX
 
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
@@ -486,7 +487,6 @@ A collection of awesome things.
 - [eugenehp/react-native-uuid](https://github.com/eugenehp/react-native-uuid) - UUID generation for react-native.
 - [expo/dev-plugins](https://github.com/expo/dev-plugins) - Out-of-tree Expo devtools plugins for packages that haven't adopted the Expo devtools plugin system yet.
 - [expo/vscode-expo](https://github.com/expo/vscode-expo) - Expo Tools keep you productive with debugging, IntelliSense, and prebuild previews
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [felixpalmer/a5](https://github.com/felixpalmer/a5) - Pentagonal geospatial indexing system DGGS
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
