@@ -191,7 +191,7 @@ A collection of awesome things.
 - [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
-- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS 26.3 Beta, Xcode 26.2 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ Buck2 🚧 GHA ✔️ Node 20 ⬢ Storybook 6.5rc 📓 Renovate 🛠️ Socket ⚡ libs 📚 for curious early adopters :suspect: #RNEU #APPJS
+- [leotm/react-native-template-new-architecture](https://github.com/leotm/react-native-template-new-architecture) - React Native 0.83 ⚡ Hardened JS 🔒 LavaMoat 🌋 Ubuntu 24 🐧 macOS / Xcode 26.3 RC 🍎 Hermes ⚙️ Fabric 🏎️  Turbo/Nitro 💨 TS 5 ✅ Gradle 9, JDK 25, NDK 27 🤖 Ruby 3.4 💎 Yarn 4 📦 ESLint 🧹 Prettier ✨ Babel 🗼 ccache ♻️ Buck2 🚧 GHA ✔️ Node 20 ⬢ Storybook 6.5rc 📓 Renovate 🛠️ Socket ⚡ libs 📚 for curious early adopters :suspect: #RNEU #APPJS
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [mojolicious/mojo.js](https://github.com/mojolicious/mojo.js) - :unicorn: The Mojolicious real-time web framework for Node.js
@@ -202,7 +202,7 @@ A collection of awesome things.
 - [optimumfuturist/scrum](https://github.com/optimumfuturist/scrum) - Scrum Meeting Deck using Impress.js
 - [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [rajamsrgit/JavaScriptSecurityCookbook](https://github.com/rajamsrgit/JavaScriptSecurityCookbook) - 
@@ -444,7 +444,7 @@ A collection of awesome things.
 - [Infineon/infineon-design-system-stencil](https://github.com/Infineon/infineon-design-system-stencil) - 
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [LunatiqueCoder/react-native-media-console](https://github.com/LunatiqueCoder/react-native-media-console) - A React Native video player. Built with TypeScript ❤️
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
 - [THEOplayer/react-native-theoplayer](https://github.com/THEOplayer/react-native-theoplayer) - A React Native THEOplayerView component
