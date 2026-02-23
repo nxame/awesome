@@ -456,7 +456,6 @@ A collection of awesome things.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
-- [WrathChaos/react-native-typescript-boilerplate](https://github.com/WrathChaos/react-native-typescript-boilerplate) - 🚀 All-in-one React Native Typescript Boilerplate, Ready to Start 🥳
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [adzejs/adze](https://github.com/adzejs/adze) - A universal, modern, and extensible logging library for JavaScript and TypeScript.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
@@ -522,6 +521,7 @@ A collection of awesome things.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
+- [kuraydev/react-native-typescript-boilerplate](https://github.com/kuraydev/react-native-typescript-boilerplate) - 🚀 All-in-one React Native Typescript Boilerplate, Ready to Start 🥳
 - [laststance/vite-rtk-query](https://github.com/laststance/vite-rtk-query) - Vite template for React + TypeScript + Redux-Toolkit / RTK Query.
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product onboarding flows and send product and event triggered emails, sms, push and more. 
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
