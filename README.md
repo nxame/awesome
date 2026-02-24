@@ -76,6 +76,7 @@ A collection of awesome things.
 - [parro-it/libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
 - [preshing/plywood](https://github.com/preshing/plywood) - Build cross-platform native software in C++
 - [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos) - React Native repo with additions for Apple TV and Android TV support. 
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 
 ## CMake
 
@@ -355,10 +356,10 @@ A collection of awesome things.
 - [doorkeeper-gem/doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
+- [joelhawksley/timeframe](https://github.com/joelhawksley/timeframe) - An e-paper calendar, weather, and smart home family dashboard
 - [leereilly/swot](https://github.com/leereilly/swot) - Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of review hours. Follow JetBrains/swot  for future updates.
 - [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 
 ## Rust
 
@@ -466,6 +467,7 @@ A collection of awesome things.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [arpanghosh8453/drone-logbook](https://github.com/arpanghosh8453/drone-logbook) - DJI Fly Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI drone flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
 - [atulmy/fullstack-event-driven-architecture](https://github.com/atulmy/fullstack-event-driven-architecture) - Text-to-Speech and Speech-to-Text application built with a full-stack monorepo, featuring an event-driven, highly scalable architecture using Node.js, React, Redis, MongoDB, and Docker.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [baloise/design-system](https://github.com/baloise/design-system) - The Baloise Design System consists of reusable components and a clearly defined visual style, that can be assembled together to build any number of applications.
@@ -584,7 +586,7 @@ A collection of awesome things.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [varse-io/varse](https://github.com/varse-io/varse) - A fast application config manager
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
-- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
 - [wcandillon/react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) - React Native implementation of WebGPU using Dawn
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆 
