@@ -113,6 +113,7 @@ A collection of awesome things.
 
 ## Go
 
+- [RecoLabs/gnata](https://github.com/RecoLabs/gnata) - Pure-Go implementation of JSONata 2.x for high-throughput streaming evaluation
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [ardanlabs/gotour](https://github.com/ardanlabs/gotour) - 
