@@ -228,6 +228,7 @@ A collection of awesome things.
 - [vimond/replay](https://github.com/vimond/replay) - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [wxik/react-native-rich-editor](https://github.com/wxik/react-native-rich-editor) - Lightweight React Native (JavaScript, H5) rich text editor
+- [zumerlab/zumly](https://github.com/zumerlab/zumly) - Zoom-based navigation for the web. Turn any site into a spatial zoom interface with just HTML
 
 ## Jupyter Notebook
 
