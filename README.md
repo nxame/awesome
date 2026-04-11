@@ -362,7 +362,7 @@ A collection of awesome things.
 - [leereilly/swot](https://github.com/leereilly/swot) - Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of review hours. Follow JetBrains/swot  for future updates.
 - [rack/rack](https://github.com/rack/rack) - A modular Ruby web server interface.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-- [timeframe/timeframe](https://github.com/timeframe/timeframe) - An e-paper calendar, weather, and smart home family dashboard
+- [timeframe/ha-addon](https://github.com/timeframe/ha-addon) - An e-paper calendar, weather, and smart home family dashboard for Home Assistant
 
 ## Rust
 
