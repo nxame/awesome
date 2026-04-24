@@ -479,7 +479,7 @@ A collection of awesome things.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [baloise/design-system](https://github.com/baloise/design-system) - The Baloise Design System consists of reusable components and a clearly defined visual style, that can be assembled together to build any number of applications.
 - [beam-cloud/lovable-clone](https://github.com/beam-cloud/lovable-clone) - A simple clone of lovable.dev using BAML / FastMCP / Beam
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [bidah/uni-stack](https://github.com/bidah/uni-stack) - ⚛️💻📱Typesafe setup to build fullstack expo universal native apps
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
