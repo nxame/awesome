@@ -314,7 +314,7 @@ A collection of awesome things.
 - [dropseed/plain](https://github.com/dropseed/plain) - The Python web framework for building apps.
 - [evanman83/OURS-project](https://github.com/evanman83/OURS-project) - Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [georgian-io/LLM-Finetuning-Toolkit](https://github.com/georgian-io/LLM-Finetuning-Toolkit) - Toolkit for fine-tuning, ablating and unit-testing open-source LLMs.
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
