@@ -494,7 +494,6 @@ A collection of awesome things.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [dabbott/react-native-express](https://github.com/dabbott/react-native-express) - The all-in-one guide to React Native
 - [dai-shi/react-tracked](https://github.com/dai-shi/react-tracked) - State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dev-xo/remix-auth-totp](https://github.com/dev-xo/remix-auth-totp) - A Time-Based One-Time Password (TOTP) Authentication Strategy for Remix-Auth.
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
@@ -619,6 +618,7 @@ A collection of awesome things.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
