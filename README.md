@@ -294,7 +294,7 @@ A collection of awesome things.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [NickTikhonov/shuo](https://github.com/NickTikhonov/shuo) - sub-500ms latency phone agent orchestration
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
