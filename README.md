@@ -334,6 +334,7 @@ A collection of awesome things.
 - [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [nvaccess/nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
@@ -386,6 +387,7 @@ A collection of awesome things.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -626,6 +628,7 @@ A collection of awesome things.
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [antonio-morales/Fuzzing101](https://github.com/antonio-morales/Fuzzing101) - An step by step fuzzing tutorial. A GitHub Security Lab initiative 
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
