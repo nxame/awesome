@@ -538,8 +538,8 @@ A collection of awesome things.
 - [keleshev/compiling-to-assembly-from-scratch](https://github.com/keleshev/compiling-to-assembly-from-scratch) - Source code for the book Compiling to Assembly from Scratch https://keleshev.com/cas
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [klevultd/frontend-sdk](https://github.com/klevultd/frontend-sdk) - Monorepository for Klevu headless
-- [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
-- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
+- [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.
+- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards with JSX.
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
 - [kuraydev/react-native-typescript-boilerplate](https://github.com/kuraydev/react-native-typescript-boilerplate) - 🤖 AI-Ready React Native + TypeScript Boilerplate OpenAI · Anthropic · Gemini built in. New Architecture, streaming chat, typed themes, path aliases & more — production-ready from day one.
 - [laststance/vite-rtk-query](https://github.com/laststance/vite-rtk-query) - Vite template for React + TypeScript + Redux-Toolkit / RTK Query.
