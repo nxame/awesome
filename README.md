@@ -247,7 +247,6 @@ A collection of awesome things.
 
 ## Kotlin
 
-- [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
@@ -477,6 +476,7 @@ A collection of awesome things.
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
 - [THEOplayer/react-native-theoplayer](https://github.com/THEOplayer/react-native-theoplayer) - A React Native THEOplayerView component
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
+- [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
