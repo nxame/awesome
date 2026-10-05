@@ -127,6 +127,7 @@ A collection of awesome things.
 - [RecoLabs/gnata](https://github.com/RecoLabs/gnata) - Pure-Go implementation of JSONata 2.x for high-throughput streaming evaluation
 - [Silo-Server/silo-server](https://github.com/Silo-Server/silo-server) - Self-hosted media streaming server with a Go backend, React web UI, Docker deployment, transcoding, and Jellyfin-compatible APIs.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [amuxify/amuxify](https://github.com/amuxify/amuxify) - The ingest gate for self-hosted media. Verify, sanitize and remux downloads into clean MKV, with stream-hash proof and exit codes for SABnzbd, Sonarr and Radarr.
 - [ardanlabs/gotour](https://github.com/ardanlabs/gotour) - 
@@ -155,6 +156,7 @@ A collection of awesome things.
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
+- [nxame/shadeflip](https://github.com/nxame/shadeflip) - Per-site dark/light toggle for Firefox and Chrome. One click flips the site you are on and remembers it. Under 20 KB, no popup, no tracking.
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS 
 - [xsleaks/wiki](https://github.com/xsleaks/wiki) - XS-Leaks Wiki
 
@@ -322,7 +324,6 @@ A collection of awesome things.
 - [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 - [Trainy-ai/llm-atc](https://github.com/Trainy-ai/llm-atc) - Fine-tuning and serving LLMs on any cloud
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
@@ -564,7 +565,6 @@ A collection of awesome things.
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards with JSX.
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
 - [kuraydev/react-native-typescript-boilerplate](https://github.com/kuraydev/react-native-typescript-boilerplate) - 🤖 AI-Ready React Native + TypeScript Boilerplate OpenAI · Anthropic · Gemini built in. New Architecture, streaming chat, typed themes, path aliases & more — production-ready from day one.
-- [laststance/vite-rtk-query](https://github.com/laststance/vite-rtk-query) - Vite template for React + TypeScript + Redux-Toolkit / RTK Query.
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product onboarding flows and send product and event triggered emails, sms, push and more. 
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
@@ -608,6 +608,7 @@ A collection of awesome things.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
+- [ryota-murakami/vite-rtk-query](https://github.com/ryota-murakami/vite-rtk-query) - Vite template for React + TypeScript + Redux-Toolkit / RTK Query.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [siemens/ix](https://github.com/siemens/ix) - Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software products.
