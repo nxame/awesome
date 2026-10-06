@@ -194,7 +194,6 @@ A collection of awesome things.
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [arc42/arc42.org-site](https://github.com/arc42/arc42.org-site) - (jekyll-based) website for arc42.org - the template for communicating software architectures. 
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [aycangulez/firewall-js](https://github.com/aycangulez/firewall-js) - A Node.js library that safeguards your codebase with seamless access control based on directory structure.
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [bijection/g9](https://github.com/bijection/g9) - Automatically Interactive Graphics 🖼✨💯
@@ -452,6 +451,7 @@ A collection of awesome things.
 
 ## Svelte
 
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 
 ## Swift
@@ -631,7 +631,7 @@ A collection of awesome things.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [varse-io/varse](https://github.com/varse-io/varse) - A fast application config manager
-- [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - Deprecated in favour of Video.js 10; security fixes only until January 2028. UI components and hooks for building video and audio players on the web.
 - [wcandillon/react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) - React Native WebGPU powered by Dawn
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆 
