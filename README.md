@@ -84,6 +84,7 @@ A collection of awesome things.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
+- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [parro-it/libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
 - [preshing/plywood](https://github.com/preshing/plywood) - An easy-to-use C++ runtime library in a small amount of code
 - [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos) - React Native repo with additions for Apple TV and Android TV support. 
@@ -593,7 +594,7 @@ A collection of awesome things.
 - [margelo/react-native-vision-camera](https://github.com/margelo/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine 
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [navikt/aksel](https://github.com/navikt/aksel) - Navs designsystem og Aksel-portalen
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
