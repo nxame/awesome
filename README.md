@@ -155,6 +155,7 @@ A collection of awesome things.
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [umputun/ralphex](https://github.com/umputun/ralphex) - Extended Ralph loop for autonomous AI-driven plan execution
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
@@ -323,13 +324,13 @@ A collection of awesome things.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
 - [EC-DIGIT-CSIRC/sysdiagnose](https://github.com/EC-DIGIT-CSIRC/sysdiagnose) - The Sysdiagnose Analysis Framework (SAF) is a framework that can be used to convert the Apple sysdiagnose diagnostic archive data to a structured and machine readable format so it can be used for data and forensic analytics on iOS mobile
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
+- [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [NickTikhonov/shuo](https://github.com/NickTikhonov/shuo) - sub-500ms latency phone agent orchestration
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Trainy-ai/llm-atc](https://github.com/Trainy-ai/llm-atc) - Fine-tuning and serving LLMs on any cloud
@@ -477,6 +478,7 @@ A collection of awesome things.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create custom, lightweight macOS apps from websites
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
 
 ## Text
